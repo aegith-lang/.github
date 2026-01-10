@@ -11,3 +11,5 @@ One day, I thought.
 > "But, Ownership System is great."
 > 
 > "Hmm... Then... Oh! Just make a new one!"
+
+So this is what they call a “stupid person.”
