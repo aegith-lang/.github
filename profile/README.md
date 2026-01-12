@@ -1,3 +1,4 @@
 # about Gim
-### goal
+## what we value
+- Memory Safety
 - 
