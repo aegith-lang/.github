@@ -1,6 +1,6 @@
 # what is Zird?
 ## what we value
 - Memory Safety
-- No Overhead
+- No overhead
 - Compilation speed
 - Simple syntax
